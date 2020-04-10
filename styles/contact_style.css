@@ -1,7 +1,6 @@
 html {
   font-size: 16px; /*16px = 12pt = 1em*/
-  font-family: "Palatino", serif; /* this should be the rest of the output you got from Google fonts */
-  /*background-color: #00539F;*/
+  font-family: "Palatino", serif;
 }
 
 h1{
