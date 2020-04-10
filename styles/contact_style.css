@@ -4,18 +4,19 @@ html {
   /*background-color: #00539F;*/
 }
 
-h1 {
+h1{
   font-size: 35px;
   font-family: "Open Sans", sans-serif;
   text-align: center;
   margin-top:-10px;
-  font-weight: bold; 
+  font-weight: bold;
 }
 
 h2 {
-  font-size: 25px;
+  font-size: 30px;
   font-family: "Open Sans", sans-serif;
   text-align: left;
+  margin-top:-10px;
   font-weight: bold;
 }
 
@@ -25,16 +26,17 @@ p{
   text-align: left;
   position: relative;
   margin-left:2px;
+  font-weight: bold;
   line-height:1.5;
+}
+
+.contact{
+  width: 70%;
+  margin: 0% auto;
+  padding: 20px 20px 20px 20px;
 }
 
 nav{
 	margin: 10px 10px 10px 10px;
 	text-align: center;
-}
-
-.welcome{
-  width: 70%;
-  margin: 0% auto;
-  padding: 0 20px 20px 20px;
 }
